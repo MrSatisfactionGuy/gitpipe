@@ -1,0 +1,6 @@
+@gitpipe_HostAddress = http://localhost:5219
+
+GET {{gitpipe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
